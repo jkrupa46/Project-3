@@ -128,7 +128,6 @@ div#video1
 {
   max-width: 600px;
   margin: auto;
-  height: 0;
 }
 
 div#video2
@@ -136,7 +135,6 @@ div#video2
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 25px;
-  height: 0;
   width: 100%;
   display: block;
   margin: auto;
