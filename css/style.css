@@ -124,13 +124,7 @@ img
   margin: auto;
 }
 
-div#video1
-{
-  max-width: 600px;
-  margin: auto;
-}
-
-div#video2
+div#video
 {
   position: relative;
   padding-bottom: 56.25%;
@@ -138,12 +132,12 @@ div#video2
   height: 0;
 }
 
-div#video2 iframe
+div#video iframe
 {
   position: absolute;
   top: 0;
   left: 0;
-  width: 10%;
+  width: 100%;
   height: 100%
 }
 
