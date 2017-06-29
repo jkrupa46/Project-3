@@ -136,15 +136,14 @@ div#video2
   padding-bottom: 56.25%;
   padding-top: 25px;
   height: 0;
-  overflow: hidden;
 }
 
 div#video2 iframe
 {
   position: absolute;
-  display: block;
-  margin: auto;
-  width: 50%;
+  top: 0;
+  left: 0;
+  width: 10%;
   height: 100%
 }
 
