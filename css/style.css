@@ -128,6 +128,7 @@ div#video1
 {
   max-width: 600px;
   margin: auto;
+  height: 0;
 }
 
 div#video2
