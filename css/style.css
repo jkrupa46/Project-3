@@ -128,11 +128,11 @@ div#video
 {
   position: relative;
   padding-bottom: 56.25%;
-  padding-top: 30px;
+  padding-top: 25px;
   height: 0;
 }
 
-iframe
+div#video iframe
 {
   position: absolute;
   top: 0;
