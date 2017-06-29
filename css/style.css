@@ -143,6 +143,12 @@ div#video iframe
   height: 100%
 }
 
+div#map
+{
+  height: 50%;
+  width: 50;
+}
+
 body#index
 {
   text-align: center;
