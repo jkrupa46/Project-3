@@ -126,14 +126,13 @@ img
 
 div#video
 {
-  width: 560px;
-  height: 315px;
   max-width: 25%;
   max-height: 25%;
   margin: auto;
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 25px;
+  overflow: hidden;
 }
 
 div#video iframe
