@@ -127,6 +127,7 @@ img
 div#video1
 {
   max-width: 500px;
+  text-align: center;
 }
 
 div#video2
@@ -136,6 +137,7 @@ div#video2
   padding-top: 25px;
   height: 0;
   width: 100%;
+  display: inline-block;
   margin: 0 auto;
 }
 
