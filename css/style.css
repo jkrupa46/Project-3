@@ -121,7 +121,7 @@ nav#video-games ul li a
 img 
 {
   max-width: 50%;
-  float: center;
+  margin: auto;
 }
 
 div#video
