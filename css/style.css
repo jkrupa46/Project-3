@@ -126,6 +126,8 @@ img
 
 div#video
 {
+  width: 560;
+  height: 315;
   max-width: 75%;
   max-height: 50%;
   margin: auto;
