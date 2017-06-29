@@ -124,15 +124,15 @@ img
   float: center;
 }
 
-//div#video
+div#video
 {
   position: relative;
   padding-bottom: 56.25%;
-  padding-top: 25px;
+  padding-top: 30px;
   height: 0;
 }
 
-//iframe
+iframe
 {
   position: absolute;
   top: 0;
