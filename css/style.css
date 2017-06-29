@@ -126,8 +126,8 @@ img
 
 div#video
 {
-  max-height: 315px;
-  max-width: 560px;
+  max-height: 50%;
+  max-width: 50%;
   margin: auto;
   position: relative;
   padding-bottom: 56.25%;
