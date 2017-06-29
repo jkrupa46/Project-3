@@ -130,6 +130,7 @@ div#video
   padding-bottom: 56.25%;
   padding-top: 25px;
   max-width: 50%;
+  margin: 0 auto;
   height: 0;
 }
 
