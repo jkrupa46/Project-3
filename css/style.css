@@ -145,8 +145,8 @@ div#video iframe
 
 div#map
 {
-  height: 50%;
-  width: 50;
+  height: 400px;
+  width: 400px;
 }
 
 body#index
