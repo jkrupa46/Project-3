@@ -126,7 +126,7 @@ img
 
 div#video1
 {
-max-width: 400px;
+max-width: 500px;
 }
 
 div#video2
@@ -135,6 +135,7 @@ div#video2
   padding-bottom: 56.25%;
   padding-top: 25px;
   height: 0;
+  margin: 0 auto;
 }
 
 div#video1 div#video2 iframe
