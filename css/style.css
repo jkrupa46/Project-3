@@ -144,6 +144,8 @@ div#video1 div#video2 iframe
   position: absolute;
   top: 0;
   left: 0;
+  display: block;
+  margin: 0 auto;
   width: 100%;
   height: 100%
 }
