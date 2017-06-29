@@ -124,28 +124,27 @@ img
   margin: auto;
 }
 
-//div#video1
+div#video1
 {
   max-width: 600px;
   margin: auto;
 }
 
-//div#video2
+div#video2
 {
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 25px;
-  width: 100%;
-  display: block;
-  margin: auto;
+  height: 0;
+  overflow: hidden;
 }
 
-//div#video1 div#video2 iframe
+div#video2 iframe
 {
   position: absolute;
   display: block;
   margin: auto;
-  width: 100%;
+  width: 50%;
   height: 100%
 }
 
