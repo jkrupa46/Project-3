@@ -126,7 +126,7 @@ img
 
 div#video1
 {
-  max-width: 500px;
+  max-width: 600px;
   margin: auto;
 }
 
@@ -141,7 +141,7 @@ div#video2
   margin: auto;
 }
 
-div#video2 iframe
+div#video1 div#video2 iframe
 {
   position: absolute;
   display: block;
