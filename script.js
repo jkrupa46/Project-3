@@ -1,5 +1,6 @@
 function initMap()
 {
+  alert("ready");
   var map;
   function initMap() 
   {
