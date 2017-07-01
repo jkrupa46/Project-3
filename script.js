@@ -24,7 +24,6 @@ function initMap()
       position: {lat: 53.483137, lng: -2.200404},
       map: map,
       title: 'Etihad Stadium',
-      icon: 'images/googlemapsicon'
     });
 }
 
