@@ -1,6 +1,6 @@
 var map;
 function initMap() 
-  {
+{
     alert("ready");
     map = new google.maps.Map(document.getElementById('map'), 
     {
