@@ -13,7 +13,7 @@ function initMap()
       style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
       mapTypeIds: ['satellite', 'roadmap'],
     }
-  });
+  };
   
   var myMap = google.maps.Map(map, mapOptions);
   
